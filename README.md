@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AmandaSherman
 
-- 👀 I’m interested in Python, Java, I like coding projects and problems of all kinds, I want to build a smart mirror, I like to travel, all kinds of music, crafts.
+- 👀 I’m interested in coding projects and problems of all kinds, I like to travel, all kinds of music, crafts and woodworking.
 
-- 🌱 I’m currently learning Python, Java, Studying bachelors in software engineering at Bellevue University.
+- 🌱 I’m currently learning Python and Java, Studying bachelors in software engineering at Bellevue University.
 
 - 💞️ I’m looking to collaborate on anything that helps me become a better coder, engineer, and person. 
 
