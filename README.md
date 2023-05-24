@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python and Java, Studying bachelors in software engineering at Bellevue University.
 
-- 💞️ I’m looking to collaborate on anything that helps me become a better coder, engineer, and person. 
+- 💞️ I’m looking to collaborate on anything that helps me become a better person, and coder.
 
 - 📫 How to reach me, email me at aleigh.sherman@gmail.com or on discord @amandaashermann.
 
